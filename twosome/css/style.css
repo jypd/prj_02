@@ -506,8 +506,8 @@ background-size: cover;}
 	/* 3-1. Store : 매장 찾기 시작 */
 #container_3_1 {}
 #container_3_1 .inner {}
-#container_3_1 .map_area {position: relative; margin-bottom: 60px; width: 100%; height: 480px;}
-#container_3_1 .map_area .store_search {position: absolute; top:10px; bottom: 10px; left: 10px; width: 36%; background-color: #fff;}
+#container_3_1 .map_area {position: relative; padding-bottom: 60px; width: 100%; height: 480px;}
+#container_3_1 .map_area .store_search {position: absolute; top:10px; bottom: 70px; left: 10px; width: 36%; background-color: #fff;}
 #container_3_1 .map_area .store_search .s_search_op {}
 #container_3_1 .map_area .store_search #ssot_quick:checked~.s_search_op label:nth-child(1) {color: #fff; background-color: #3d3d3d;}
 #container_3_1 .map_area .store_search #ssot_local:checked~.s_search_op label:nth-child(2) {color: #fff; background-color: #3d3d3d;}
